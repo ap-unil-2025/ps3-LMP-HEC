@@ -1,4 +1,5 @@
 """
+problem3
 Problem 3: Number Analysis
 Analyze a list of numbers provided by the user.
 """
